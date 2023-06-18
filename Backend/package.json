@@ -1,0 +1,25 @@
+{
+    "name": "back-end",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node ./bin/www"
+    },
+    "dependencies": {
+        "body": "^5.1.0",
+        "body-parser": "^1.19.0",
+        "cookie-parser": "^1.4.6",
+        "cors": "^2.8.5",
+        "debug": "~2.6.9",
+        "express": "^4.17.1",
+        "hbs": "^4.0.6",
+        "http-error": "0.0.6",
+        "http-errors": "^1.6.3",
+        "logger": "0.0.1",
+        "mongodb": "^4.2.0",
+        "mongoose": "^6.0.13",
+        "morgan": "^1.9.1",
+        "nodemon": "^2.0.15",
+        "path": "^0.12.7"
+    }
+}
