@@ -17,6 +17,6 @@ Ticker Search
 
 ![image](https://github.com/smuh27/MarketAI/assets/63614993/20c4ba1b-f136-405d-984b-11b91461b67e)
 
-Results
+Example
 
 ![image](https://github.com/smuh27/MarketAI/assets/63614993/862c1a81-31b8-460e-b13e-6e4614266e70)
