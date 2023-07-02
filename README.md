@@ -1,5 +1,5 @@
 # MarketAI
-A full stack application that is designed for users to be able to enter a stock price and recieve estimates of the stocks future price based on the data presented, this was created for the CPS731 final group project. 
+A full stack application that was created for users to be able to enter a stock price and recieve an analysis of the stocks future price based on the data presented, this was created for the CPS731 final group project. 
 # Structure
 - The Front end and Back end was created using web technologies, specifically ReactJs, NodeJs, and MongoDB. 
 - Developed Binary ML pipelines that modeled stock price data and modeled predicitions. Basing predicitons
