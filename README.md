@@ -11,3 +11,12 @@ A full stack application that is designed for users to be able to enter a stock 
 
 Registration Page 
 
+![image](https://github.com/smuh27/MarketAI/assets/63614993/11e0efbb-3b03-4f83-9ebb-45e569cbc674)
+
+Ticker Search 
+
+![image](https://github.com/smuh27/MarketAI/assets/63614993/20c4ba1b-f136-405d-984b-11b91461b67e)
+
+Results
+
+![image](https://github.com/smuh27/MarketAI/assets/63614993/862c1a81-31b8-460e-b13e-6e4614266e70)
